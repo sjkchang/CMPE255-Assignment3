@@ -3,4 +3,4 @@
 
 ## SEMMA - [Medium Article](https://medium.com/@sjkchang/using-semma-to-predict-coronary-artery-disease-d0a873655ac9) - [Colab](https://github.com/sjkchang/CMPE255-Assignment3/blob/master/semma/SEMMA_CreditScore.ipynb) - [arXiv](https://nodejs.org/) - [Report PDF](https://github.com/sjkchang/CMPE255-Assignment3/blob/master/semma/SEMMA%20-%20Coronary%20Artery%20Disease.pdf)
 
-## KDD - [Medium Article]([https://nodejs.org/](https://medium.com/@sjkchang/using-kdd-methodology-for-credit-card-fraud-detection-d972786aca37)) - [Colab](https://github.com/sjkchang/CMPE255-Assignment3/blob/master/kdd/KDD_Credit_Fraudd.ipynb) - [arXiv](https://nodejs.org/) - [Report PDF](https://github.com/sjkchang/CMPE255-Assignment3/blob/master/kdd/KDD%20-%20Coronary%20Artery.pdf)
+## KDD - [Medium Article](https://medium.com/@sjkchang/using-kdd-methodology-for-credit-card-fraud-detection-d972786aca37) - [Colab](https://github.com/sjkchang/CMPE255-Assignment3/blob/master/kdd/KDD_Credit_Fraudd.ipynb) - [arXiv](https://nodejs.org/) - [Report PDF](https://github.com/sjkchang/CMPE255-Assignment3/blob/master/kdd/KDD%20-%20Coronary%20Artery.pdf)
